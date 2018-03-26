@@ -1,0 +1,14 @@
+{
+    "ftp":{
+      "server": "ftp.dlptest.com",
+      "username": "dlpuser@dlptest.com",
+      "password": "eiTqR7EMZD5zy7M",
+      "port": "21"
+    },
+    "people":[{
+        "name":"Luis"
+      },{
+        "name":"Ana"
+      }
+    ]
+}
