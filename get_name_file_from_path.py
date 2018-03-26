@@ -15,3 +15,6 @@ def path_leaf(path):
 
 for backup in get_backups():
     print(path_leaf(backup))
+#Output:
+#20160615_0803_bd - copia.dump
+#20160615_0803_bd.dump
