@@ -3,7 +3,6 @@ import csv
 import matplotlib.pyplot as plt
 
 # Pie chart, where the slices will be ordered and plotted counter-clockwise:
-
 labels = []
 sizes = []
 with open(os.getcwd()+'/files/people.csv') as csvfile:
